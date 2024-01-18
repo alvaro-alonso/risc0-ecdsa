@@ -1,11 +1,6 @@
-# RISC Zero Rust Starter Template
+# RISC Zero hello-ecdsa
 
-Welcome to the RISC Zero Rust Starter Template! This template is intended to
-give you a starting point for building a project using the RISC Zero zkVM.
-Throughout the template (including in this README), you'll find comments
-labelled `TODO` in places where you'll need to make changes. To better
-understand the concepts behind this template, check out the [zkVM
-Overview][zkvm-overview].
+A minimal working ecdsa example. A Mix of the [`hello world` tutorial](https://dev.risczero.com/api/zkvm/tutorials/hello-world) and the [`ecdsa` example](https://github.com/risc0/risc0/tree/release-0.19/examples/ecdsa) from the risc official doc. 
 
 ## Quick Start
 
